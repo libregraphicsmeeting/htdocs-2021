@@ -10,4 +10,4 @@ Notes to the webmain:
 
 ## Todo
 
-[ ] Merge the sync script with the Gitlab one.
+- [ ] Multpile basedir with a path each
