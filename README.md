@@ -10,4 +10,4 @@ Notes to the webmain:
 
 ## Todo
 
-- [ ] Multpile basedir with a path each
+- [x] Multpile basedir with a path each
