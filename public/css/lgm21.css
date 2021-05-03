@@ -22,6 +22,10 @@
     background-color:var(--sun);
 }
 
+.bg5 {
+    background-color:#e6e6e6;
+}
+
 .c1 {
     color:var(--darkblue);
 }
@@ -31,11 +35,20 @@
 }
 
 .c3 {
-    color:var(--light)
+    color:var(--light);
 }
 
 .c4 {
     color:var(--sun);
+}
+
+.c6 {
+    color:black;
+}
+
+.vert {
+    border-left:1px solid var(--darkblue);
+    padding-left:.3em;
 }
 
 /* -- color element -- */
